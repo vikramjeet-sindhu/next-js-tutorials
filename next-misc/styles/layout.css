@@ -1,0 +1,18 @@
+.layout-header{
+    color: white;
+    background: aqua;
+    text-align: center;
+    font-size: 60px;
+}
+.layout-footer{
+    color: white;
+    background: aqua;
+    text-align: center;
+    font-size: 60px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
